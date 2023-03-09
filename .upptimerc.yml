@@ -23,7 +23,28 @@ sites:
     icon: https://chichchoe.vn/fav.ico
   - name: Staging XAPI
     url: $XAPI_STAGING
-    icon: https://chichchoe.vn/fav.ico   
+    icon: https://chichchoe.vn/fav.ico
+  - name: Dev CMS
+    url: $CMS_DEV
+    icon: https://chichchoe.vn/fav.ico
+  - name: Dev APP
+    url: $APP_DEV
+    icon: https://chichchoe.vn/fav.ico
+  - name: Dev DMS
+    url: $DMS_DEV
+    icon: https://chichchoe.vn/fav.ico
+  - name: Dev AUTH
+    url: $AUTH_DEV
+    icon: https://chichchoe.vn/fav.ico
+  - name: Dev REPORT
+    url: $REPORT_DEV
+    icon: https://chichchoe.vn/fav.ico  
+  - name: Dev H5P
+    url: $H5P_DEV
+    icon: https://chichchoe.vn/fav.ico
+  - name: Dev XAPI
+    url: $XAPI_DEV
+    icon: https://chichchoe.vn/fav.ico    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -42,8 +63,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

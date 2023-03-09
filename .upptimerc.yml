@@ -53,16 +53,16 @@ status-website:
   logoUrl: https://chichchoe.vn/svg/logo/header-logo.svg
   favicon: https://chichchoe.vn/fav.ico
   name: "ChichChoe Uptime"
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "Hello"
+  introTitle: "..."
+  introMessage: "..."
   metaTags:
     - name: "color-scheme"
       content: "dark light"
     - name: "robots"
       content: "noindex"  
-  navbar:
-    - title: Status
-      href: /
+#   navbar:
+#     - title: Status
+#       href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

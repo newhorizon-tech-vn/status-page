@@ -4,14 +4,26 @@ repo: status-page # The name of this repository
 
 sites:
   - name: Staging CMS
-    url: https://cms.staging.chichchoe.vn/admin/auth/login
+    url: $CMS_STAGING
+    icon: https://chichchoe.vn/fav.ico
   - name: Staging APP
-    url: https://app.staging.chichchoe.vn
+    url: $APP_STAGING
+    icon: https://chichchoe.vn/fav.ico
   - name: Staging DMS
-    url: https://dms.staging.chichchoe.vn/api/ping
-  - name: Staging Auth
-    url: https://auth.staging.chichchoe.vn/api/ping
-
+    url: $DMS_STAGING
+    icon: https://chichchoe.vn/fav.ico
+  - name: Staging AUTH
+    url: $AUTH_STAGING
+    icon: https://chichchoe.vn/fav.ico
+  - name: Staging REPORT
+    url: $REPORT_STAGING
+    icon: https://chichchoe.vn/fav.ico  
+  - name: Staging H5P
+    url: $H5P_STAGING
+    icon: https://chichchoe.vn/fav.ico
+  - name: Staging XAPI
+    url: $XAPI_STAGING
+    icon: https://chichchoe.vn/fav.ico   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -15,6 +15,9 @@ sites:
   - name: Production AUTH
     url: $AUTH_PRODUCTION
     icon: https://chichchoe.vn/fav.ico
+  - name: Production REPORT
+    url: $REPORT_PRODUCTION
+    icon: https://chichchoe.vn/fav.ico
   - name: Production H5P
     url: $H5P_PRODUCTION
     icon: https://chichchoe.vn/fav.ico
@@ -35,7 +38,7 @@ sites:
     icon: https://chichchoe.vn/fav.ico
   - name: Staging REPORT
     url: $REPORT_STAGING
-    icon: https://chichchoe.vn/fav.ico  
+    icon: https://chichchoe.vn/fav.ico
   - name: Staging H5P
     url: $H5P_STAGING
     icon: https://chichchoe.vn/fav.ico

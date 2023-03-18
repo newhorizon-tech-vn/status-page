@@ -15,6 +15,12 @@ sites:
   - name: Production AUTH
     url: $AUTH_PRODUCTION
     icon: https://chichchoe.vn/fav.ico
+  - name: Production H5P
+    url: $H5P_PRODUCTION
+    icon: https://chichchoe.vn/fav.ico
+  - name: Production XAPI
+    url: $XAPI_PRODUCTION
+    icon: https://chichchoe.vn/fav.ico    
   - name: Staging CMS
     url: $CMS_STAGING
     icon: https://chichchoe.vn/fav.ico

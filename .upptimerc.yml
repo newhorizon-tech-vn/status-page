@@ -9,6 +9,9 @@ sites:
   - name: Production APP
     url: $APP_PRODUCTION
     icon: https://chichchoe.vn/fav.ico
+  - name: Production DMS
+    url: $DMS_PRODUCTION
+    icon: https://chichchoe.vn/fav.ico    
   - name: Production AUTH
     url: $AUTH_PRODUCTION
     icon: https://chichchoe.vn/fav.ico

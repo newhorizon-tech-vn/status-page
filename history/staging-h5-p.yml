@@ -1,7 +1,7 @@
 url: $H5P_STAGING
-status: down
-code: 502
-responseTime: 747
-lastUpdated: 2023-06-04T09:46:19.447Z
+status: up
+code: 200
+responseTime: 1273
+lastUpdated: 2023-06-04T09:58:25.087Z
 startTime: Thu Mar 09 2023 03:30:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

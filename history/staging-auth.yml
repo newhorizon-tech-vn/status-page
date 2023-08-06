@@ -1,7 +1,7 @@
 url: $AUTH_STAGING
-status: up
-code: 200
-responseTime: 1307
-lastUpdated: 2023-08-05T23:01:00.962Z
+status: down
+code: 503
+responseTime: 664
+lastUpdated: 2023-08-06T16:29:00.356Z
 startTime: Wed Mar 08 2023 17:54:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

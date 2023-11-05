@@ -400,10 +400,10 @@
     "url": "$REPORT_DEV",
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "dev-report",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 842,
@@ -412,6 +412,7 @@
     "timeMonth": 789,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2023-11-05": 1,
       "2023-06-04": 40,
       "2023-03-10": 54
     }

@@ -1,7 +1,7 @@
 url: $REPORT_PRODUCTION
 status: down
 code: 401
-responseTime: 893
-lastUpdated: 2024-02-06T23:01:17.941Z
+responseTime: 566
+lastUpdated: 2024-02-07T23:01:16.739Z
 startTime: 2023-03-18T19:16:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

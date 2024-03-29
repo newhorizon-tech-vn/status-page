@@ -1,7 +1,7 @@
 url: $CMS_STAGING
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2024-03-28T23:00:47.146Z
+status: down
+code: 500
+responseTime: 1462
+lastUpdated: 2024-03-29T07:02:39.954Z
 startTime: 2023-03-08T17:53:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>

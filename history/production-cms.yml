@@ -1,7 +1,7 @@
 url: $CMS_PRODUCTION
-status: down
-code: 502
-responseTime: 748
-lastUpdated: 2024-03-31T16:47:06.326Z
+status: up
+code: 200
+responseTime: 750
+lastUpdated: 2024-03-31T16:55:49.121Z
 startTime: 2023-03-17T19:07:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>

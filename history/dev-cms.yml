@@ -1,7 +1,7 @@
 url: $CMS_DEV
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2024-04-08T23:00:43.892Z
+status: down
+code: 502
+responseTime: 1252
+lastUpdated: 2024-04-09T15:27:10.279Z
 startTime: 2023-03-09T04:21:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $APP_PRODUCTION
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-16T07:07:28.770Z
+status: up
+code: 200
+responseTime: 699
+lastUpdated: 2024-04-16T09:02:31.257Z
 startTime: 2023-03-17T18:42:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>

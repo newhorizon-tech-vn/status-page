@@ -1,7 +1,7 @@
 url: $AUTH_DEV
-status: down
-code: 503
-responseTime: 539
-lastUpdated: 2024-04-24T18:08:40.456Z
+status: up
+code: 200
+responseTime: 540
+lastUpdated: 2024-04-24T18:22:17.471Z
 startTime: 2023-03-09T04:21:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $XAPI_DEV
-status: down
-code: 503
-responseTime: 751
-lastUpdated: 2024-05-29T11:10:06.758Z
+status: up
+code: 200
+responseTime: 668
+lastUpdated: 2024-05-29T11:19:46.038Z
 startTime: 2023-03-09T04:21:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1061,19 +1061,19 @@
     "url": "$XAPI_DEV",
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "dev-xapi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 774,
-    "timeDay": 769,
-    "timeWeek": 735,
-    "timeMonth": 723,
+    "time": 773,
+    "timeDay": 735,
+    "timeWeek": 729,
+    "timeMonth": 721,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2024-05-29": 1,
+      "2024-05-29": 10,
       "2023-06-04": 58
     }
   }

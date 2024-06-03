@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 909,
-    "timeDay": 985,
-    "timeWeek": 918,
-    "timeMonth": 930,
-    "timeYear": 933,
+    "timeDay": 976,
+    "timeWeek": 930,
+    "timeMonth": 923,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2024-04-16": 115
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 833,
-    "timeDay": 947,
-    "timeWeek": 901,
-    "timeMonth": 861,
+    "time": 834,
+    "timeDay": 962,
+    "timeWeek": 912,
+    "timeMonth": 862,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2024-04-16": 115
@@ -50,9 +50,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 848,
-    "timeDay": 958,
-    "timeWeek": 928,
+    "time": 849,
+    "timeDay": 975,
+    "timeWeek": 913,
     "timeMonth": 866,
     "timeYear": 857,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 813,
-    "timeDay": 949,
-    "timeWeek": 859,
-    "timeMonth": 829,
-    "timeYear": 821,
+    "time": 814,
+    "timeDay": 977,
+    "timeWeek": 867,
+    "timeMonth": 830,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-04-16": 114
     }
@@ -85,16 +85,16 @@
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "production-report",
     "status": "down",
-    "uptime": "63.23%",
+    "uptime": "63.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "55.56%",
     "time": 852,
-    "timeDay": 720,
-    "timeWeek": 850,
-    "timeMonth": 985,
-    "timeYear": 857,
+    "timeDay": 936,
+    "timeWeek": 859,
+    "timeMonth": 984,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2024-04-16": 600,
       "2024-04-15": 1440,
@@ -273,10 +273,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 987,
-    "timeDay": 723,
-    "timeWeek": 852,
-    "timeMonth": 790,
-    "timeYear": 980,
+    "timeDay": 714,
+    "timeWeek": 796,
+    "timeMonth": 783,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-03-07": 63
     }
@@ -293,10 +293,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 791,
-    "timeDay": 1176,
-    "timeWeek": 911,
-    "timeMonth": 790,
-    "timeYear": 796,
+    "timeDay": 965,
+    "timeWeek": 953,
+    "timeMonth": 799,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2024-04-16": 113
     }
@@ -313,14 +313,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 821,
-    "timeDay": 1007,
-    "timeWeek": 929,
-    "timeMonth": 847,
+    "timeDay": 1003,
+    "timeWeek": 932,
+    "timeMonth": 855,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2024-04-24": 122,
-      "2024-04-23": 2,
-      "2023-06-04": 65
+      "2024-04-23": 2
     }
   },
   {
@@ -334,11 +333,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 959,
-    "timeWeek": 839,
-    "timeMonth": 749,
-    "timeYear": 772,
+    "time": 789,
+    "timeDay": 1405,
+    "timeWeek": 942,
+    "timeMonth": 771,
+    "timeYear": 774,
     "dailyMinutesDown": {}
   },
   {
@@ -353,9 +352,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 1195,
-    "timeWeek": 893,
-    "timeMonth": 805,
+    "timeDay": 705,
+    "timeWeek": 894,
+    "timeMonth": 797,
     "timeYear": 754,
     "dailyMinutesDown": {}
   },
@@ -370,11 +369,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 1006,
-    "timeWeek": 855,
-    "timeMonth": 756,
-    "timeYear": 759,
+    "time": 768,
+    "timeDay": 976,
+    "timeWeek": 895,
+    "timeMonth": 765,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2024-03-22": 19
     }
@@ -385,16 +384,16 @@
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "staging-report",
     "status": "up",
-    "uptime": "78.23%",
+    "uptime": "78.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "73.15%",
     "time": 898,
-    "timeDay": 961,
-    "timeWeek": 872,
-    "timeMonth": 770,
-    "timeYear": 904,
+    "timeDay": 734,
+    "timeWeek": 873,
+    "timeMonth": 771,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2024-04-01": 248,
       "2024-03-31": 1440,
@@ -502,8 +501,7 @@
       "2023-10-30": 36,
       "2023-08-24": 26,
       "2023-08-20": 15,
-      "2023-06-22": 16,
-      "2023-06-04": 45
+      "2023-06-22": 16
     }
   },
   {
@@ -512,16 +510,16 @@
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "staging-h5-p",
     "status": "down",
-    "uptime": "74.21%",
+    "uptime": "74.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.16%",
-    "time": 907,
-    "timeDay": 749,
-    "timeWeek": 731,
-    "timeMonth": 706,
-    "timeYear": 871,
+    "time": 906,
+    "timeDay": 714,
+    "timeWeek": 736,
+    "timeMonth": 705,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2024-04-16": 600,
       "2024-04-15": 1440,
@@ -641,8 +639,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1039,
       "2023-11-16": 18,
-      "2023-09-15": 40,
-      "2023-06-04": 62
+      "2023-09-15": 40
     }
   },
   {
@@ -656,11 +653,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 718,
-    "timeWeek": 811,
-    "timeMonth": 752,
-    "timeYear": 756,
+    "time": 759,
+    "timeDay": 1191,
+    "timeWeek": 883,
+    "timeMonth": 760,
+    "timeYear": 757,
     "dailyMinutesDown": {}
   },
   {
@@ -675,13 +672,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 870,
-    "timeDay": 1220,
-    "timeWeek": 896,
-    "timeMonth": 778,
-    "timeYear": 832,
+    "timeDay": 758,
+    "timeWeek": 859,
+    "timeMonth": 779,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-04-09": 79,
-      "2023-06-04": 60
+      "2024-04-09": 79
     }
   },
   {
@@ -695,14 +691,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 820,
-    "timeDay": 967,
-    "timeWeek": 884,
-    "timeMonth": 782,
-    "timeYear": 740,
+    "time": 821,
+    "timeDay": 1566,
+    "timeWeek": 975,
+    "timeMonth": 810,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2024-04-09": 22,
-      "2023-06-04": 42
+      "2024-04-09": 22
     }
   },
   {
@@ -716,14 +711,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 810,
-    "timeDay": 978,
-    "timeWeek": 857,
-    "timeMonth": 750,
-    "timeYear": 765,
+    "time": 809,
+    "timeDay": 727,
+    "timeWeek": 862,
+    "timeMonth": 745,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2023-12-30": 16,
-      "2023-06-04": 42
+      "2023-12-30": 16
     }
   },
   {
@@ -737,14 +731,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 790,
-    "timeDay": 720,
-    "timeWeek": 770,
-    "timeMonth": 739,
-    "timeYear": 749,
+    "time": 792,
+    "timeDay": 1979,
+    "timeWeek": 953,
+    "timeMonth": 779,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-03-22": 19,
-      "2023-06-04": 42
+      "2024-03-22": 19
     }
   },
   {
@@ -753,15 +746,15 @@
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "dev-report",
     "status": "up",
-    "uptime": "74.31%",
+    "uptime": "74.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.28%",
-    "time": 794,
-    "timeDay": 965,
-    "timeWeek": 762,
-    "timeMonth": 728,
+    "time": 793,
+    "timeDay": 723,
+    "timeWeek": 773,
+    "timeMonth": 727,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2024-04-24": 442,
@@ -882,8 +875,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 912,
-      "2023-06-04": 40
+      "2023-11-20": 912
     }
   },
   {
@@ -892,15 +884,15 @@
     "icon": "https://chichchoe.vn/fav.ico",
     "slug": "dev-h5-p",
     "status": "down",
-    "uptime": "67.11%",
+    "uptime": "67.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "59.39%",
-    "time": 850,
-    "timeDay": 722,
-    "timeWeek": 834,
-    "timeMonth": 729,
+    "time": 851,
+    "timeDay": 963,
+    "timeWeek": 874,
+    "timeMonth": 736,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2024-04-16": 600,
@@ -1052,8 +1044,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1066,
-      "2023-08-23": 37,
-      "2023-06-04": 58
+      "2023-08-23": 37
     }
   },
   {
@@ -1068,12 +1059,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 774,
-    "timeDay": 949,
-    "timeWeek": 754,
+    "timeDay": 719,
+    "timeWeek": 757,
     "timeMonth": 729,
     "timeYear": 732,
-    "dailyMinutesDown": {
-      "2023-06-04": 58
-    }
+    "dailyMinutesDown": {}
   }
 ]

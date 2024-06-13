@@ -1,7 +1,7 @@
 url: $DMS_DEV
-status: up
-code: 200
-responseTime: 1205
-lastUpdated: 2024-06-12T23:01:18.269Z
+status: down
+code: 504
+responseTime: 10697
+lastUpdated: 2024-06-13T04:21:15.392Z
 startTime: 2023-03-09T04:21:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
